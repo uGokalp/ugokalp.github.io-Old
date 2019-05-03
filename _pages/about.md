@@ -1,10 +1,10 @@
 ---
 title: "About"
 permalink: /about/
-header:
-<!---
-  image: "/assets/images/"
-  -->
+
+#header:
+  #image: "/assets/images/"
+
 ---
 
 Hello
