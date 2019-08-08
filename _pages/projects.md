@@ -7,11 +7,11 @@ author_profile: true
   #image: "/assets/images/"
 
 ---
-## Beginner Level Projects
-### Deep Learning Projects
+### Beginner Level Projects
+#### Deep Learning Projects
 - MNIST with Keras/Pytorch
 - Cats vs Dogs with Keras/Pytorch
 - Leaf Classification with Keras/Pytorch
 
-### Functional Projects
+#### Functional Projects
  - Eksi-sozluk Scraper
