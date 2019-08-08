@@ -1,9 +1,14 @@
 # main links
 main:
+  - title: "Home"
+  - url: /
+
   - title: "About"
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Progress"
+  - url: /progress/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
