@@ -1,5 +1,5 @@
 ---
-
+layout: archive
 title: "My Progress"
 permalink: /progress/
 author_profile: true
