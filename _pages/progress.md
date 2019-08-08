@@ -1,8 +1,9 @@
 ---
-permalink: /progress/
+
 title: "My Progress"
+permalink: /progress/
 author_profile: true
-header:
+#header:
   #image: "/assets/images/"
 ---
 
