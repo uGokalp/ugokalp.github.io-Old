@@ -12,7 +12,7 @@ author_profile: true
 - MNIST with Keras/Pytorch
 - Cats vs Dogs with Keras/Pytorch
 - Leaf Classification with Keras/Pytorch
-- <span style="font-size:4em;"> Sarcasm Detector using LSTM/GRU with Keras</span>
+- <span style="font-size:6;"> Sarcasm Detector using LSTM/GRU with Keras</span>
 
 
 #### Functional Projects
