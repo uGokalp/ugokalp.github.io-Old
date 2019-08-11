@@ -7,12 +7,12 @@ author_profile: true
   #image: "/assets/images/"
 
 ---
-### Beginner Level Projects
-#### Deep Learning Projects
+## Beginner Level Projects
+### Deep Learning Projects
 - MNIST with Keras/Pytorch
 - Cats vs Dogs with Keras/Pytorch
 - Leaf Classification with Keras/Pytorch
-- <span style="font-size:6;"> Sarcasm Detector using LSTM/GRU with Keras</span>
+- Sarcasm Detector using LSTM/GRU with Keras
 
 
 #### Functional Projects
