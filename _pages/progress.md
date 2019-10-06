@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "My Progress"
 permalink: /progress/
 
