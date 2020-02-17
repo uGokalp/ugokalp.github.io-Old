@@ -62,14 +62,14 @@
   }
 
   /* fills width of parent container */
-  &--block {
-    display: block;
-    width: 100%;
+  // &--block {
+  //   display: block;
+  //   width: 100%;
 
-    + .btn--block {
-      margin-top: 0.25em;
-    }
-  }
+  //   + .btn--block {
+  //     margin-top: 0.25em;
+  //   }
+  // }
 
   /* disabled */
   &--disabled {
