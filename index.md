@@ -11,6 +11,14 @@ feature_row:
     btn_label: "Github"
     github: "https://github.com/EricFillion/happy-transformer"
 
+  - #image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Neural Network From Scratch"
+    excerpt: "A neural network library written with numpy"
+    url: "/dnn/"
+    btn_class: "btn--primary"
+    btn_label: "Github"
+    github: "https://github.com/uGokalp/DNNScratch"
 
   - #image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
@@ -19,6 +27,8 @@ feature_row:
     url: "https://www.kaggle.com/c/nlp-getting-started"
     btn_class: "btn--primary"
     btn_label: "Github"
+
+
   - #image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "Eksisozluk Webscrapper"
