@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dnn/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/nlp/</loc>
 </url>
 <url>

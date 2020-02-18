@@ -26,7 +26,7 @@ feature_row:
     excerpt: "In this kaggle competition users are trying to classify raw tweets as relating to a disaster or not. "
     url: "https://www.kaggle.com/c/nlp-getting-started"
     btn_class: "btn--primary"
-    btn_label: "Github"
+    btn_label: "Kaggle"
 
 
   - #image_path: /assets/images/mm-free-feature.png
