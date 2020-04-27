@@ -3,9 +3,11 @@ layout: archive
 title: "HisarAI: An Introductory course in Data Science for high school students"
 permalink: /mlschool/
 github: "https://github.com/uGokalp/HisarAI"
+url: "https://github.com/uGokalp/HisarAI"
 author_profile: true
 ---
-[Github link](https://github.com/uGokalp/HisarAI)
+<p><a href="https://github.com/uGokalp/HisarAI"  style="margin-left: 20px;"><i class="{{ f.github.icon | default: 'fab fa-fw fa-github' }}" ></i> {{ f.github.label }}</a></p>
+
 
 
 Topics:

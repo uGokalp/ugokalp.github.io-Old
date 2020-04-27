@@ -4,8 +4,13 @@ title: "Machine learning algorithms in Numpy"
 permalink: /ml/
 github: "https://github.com/uGokalp/ML-in-Numpy"
 author_profile: true
+url: "https://github.com/uGokalp/ML-in-Numpy"
+feature_row:
+  - btn_class: "btn--primary"
+    btn_label: "Kaggle"
+    
 ---
-[Github link](https://github.com/uGokalp/ML-in-Numpy)
+<p><a href="https://github.com/uGokalp/ML-in-Numpy"  style="margin-left: 20px;"><i class="{{ f.github.icon | default: 'fab fa-fw fa-github' }}" ></i> {{ f.github.label }}</a></p>
 
 
 
