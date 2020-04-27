@@ -5,7 +5,7 @@ permalink: /mlschool/
 github: "https://github.com/uGokalp/HisarAI"
 author_profile: true
 ---
-[Github link]("https://github.com/uGokalp/HisarAI")
+[Github link](https://github.com/uGokalp/HisarAI)
 
 
 Topics:

@@ -5,7 +5,7 @@ permalink: /ml/
 github: "https://github.com/uGokalp/ML-in-Numpy"
 author_profile: true
 ---
-[Github link]("https://github.com/uGokalp/ML-in-Numpy")
+[Github link](https://github.com/uGokalp/ML-in-Numpy)
 
 
 
