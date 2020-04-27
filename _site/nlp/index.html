@@ -56,6 +56,8 @@
 
 
 
+  <meta name="google-site-verification" content="Qtz5D9DPUhhBwE7OKUnqURYOWpRQUCiQx0UQxGlwG2c" />
+
 
 
 
@@ -116,8 +118,6 @@
         <a class="site-title" href="/">Umur Gokalp</a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/resume/" >Resume</a>
-            </li><li class="masthead__menu-item">
-              <a href="/projects/" >Projects</a>
             </li><li class="masthead__menu-item">
               <a href="/progress/" >Progress</a>
             </li><li class="masthead__menu-item">
@@ -270,7 +270,63 @@
     
       <h1 id="page-title" class="page__title">Happy Transformer</h1>
     
-    
+    <p><a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License" /></a> <a href="https://pepy.tech/project/happytransformer"><img src="https://pepy.tech/badge/happytransformer" alt="Downloads" /></a></p>
+
+<p>Happy Transformer is an API built on top of <a href="https://pytorch.org/hub/huggingface_pytorch-transformers/">PyTorch’s transformer library</a> that makes it easy to utilize state-of-the-art NLP models.</p>
+
+<h2 id="key-features">Key Features</h2>
+<ul>
+  <li><strong>New: Finetuning Masked Language Models</strong></li>
+  <li>Available language models: XLNET, BERT and ROBERTA.</li>
+  <li>Predict a masked word within a sentence.</li>
+  <li>Fine tune binary sequence classification models to solve problems like sentiment analysis.</li>
+  <li>Predict the likelihood that sentence B follows sentence A within a paragraph.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Public Methods</th>
+      <th>HappyROBERTA</th>
+      <th>HappyXLNET</th>
+      <th>HappyBERT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Masked Word Prediction</td>
+      <td>✔</td>
+      <td>✔</td>
+      <td>✔</td>
+    </tr>
+    <tr>
+      <td>Sequence Classification</td>
+      <td>✔</td>
+      <td>✔</td>
+      <td>✔</td>
+    </tr>
+    <tr>
+      <td>Next Sentence Prediction</td>
+      <td> </td>
+      <td> </td>
+      <td>✔</td>
+    </tr>
+    <tr>
+      <td>Question Answering</td>
+      <td> </td>
+      <td> </td>
+      <td>✔</td>
+    </tr>
+    <tr>
+      <td>Masked Word Prediction Finetuning</td>
+      <td>✔</td>
+      <td> </td>
+      <td>✔</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>I have contributed directly to Masked Word Prediction and Masked Word Prediction Finetuning.</em></p>
 
   </div>
 </div>

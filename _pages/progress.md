@@ -27,3 +27,4 @@ author_profile: true
  - Advanced Data Science with IBM 
  - TensorFlow in Practice Specialization 
  - WQU Scientific Computing and Python for Data Science 
+ - Fast.ai Introduction to Machine Learning for Coders - 2020 April
